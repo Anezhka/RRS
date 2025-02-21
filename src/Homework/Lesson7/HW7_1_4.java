@@ -22,7 +22,6 @@ public class HW7_1_4 {
             sum += arr[i];
         }
         arithmeticalMean = sum / (double) arr.length;
-
         return arithmeticalMean;
     }
 }
